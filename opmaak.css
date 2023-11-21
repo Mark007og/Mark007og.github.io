@@ -7,7 +7,7 @@ ul{
 }
 
 li {
-   float: left;
+   float: centrum;
 }
 li a{
   display: block;
