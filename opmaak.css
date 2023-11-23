@@ -1,5 +1,8 @@
 body{
-    background-image: url(pic_trulli.jpg);
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fized;
     background-size: cover;
     
 }
