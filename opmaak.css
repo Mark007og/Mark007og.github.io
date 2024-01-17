@@ -1,5 +1,5 @@
 body{
-    background-image: url(mcquue.jpg);
+    background-image: url(blu.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fized;
@@ -18,7 +18,7 @@ li{
 }
 li a { 
   display: block;
-  color: green;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
