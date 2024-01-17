@@ -24,7 +24,7 @@ li a {
   text-decoration: none;
 }
 /*Change the link color to #E5E7E9 (white) on hover */
-li a:hover {
+a:hover {
   color: red;
   background-color: transparent;
   text-decoration: underline;
